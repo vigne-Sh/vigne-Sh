@@ -3,7 +3,7 @@
      with hands on experience in variety of aws services that reduces
      repetitive manual tasks & learning new technologies that makes
      a differnce in day to day work
-- 🌱 2+ years of experience in object orient design and problem solving and
+- 🌱 3+ years of experience in object orient design and problem solving and
      mastering DSA to implement the best optimized solutions for the problem
      statement in orgranization I work for.
 - 🐼 I Love to invent & simplify by dive deep into the
@@ -54,7 +54,7 @@
      greenish portfolio and I'm also working on stock analysis
      app for investing which will help my personal needs
      and utilizing automation help in real life
-- 💞️ I’m looking to collaborate on organizaiton that values my contribution 
+- 💞️ I’m looking forward to work in an organizaiton that values my contribution 
 - 📫 How to reach me [ https://www.linkedin.com/in/vignesh-srinivasan-385298150/ ]
 
 <!---
